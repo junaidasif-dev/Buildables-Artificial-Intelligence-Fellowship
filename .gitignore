@@ -1,0 +1,99 @@
+# ---- Python bytecode & caches ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- Virtual environments ----
+.venv/
+venv/
+ENV/
+.envrc
+.python-version
+
+# ---- Environment & secrets ----
+.env
+*.env
+
+# ---- Jupyter artifacts ----
+.ipynb_checkpoints/
+# (Keep actual .ipynb notebooks tracked)
+
+# ---- Logs & runtime dumps ----
+*.log
+logs/
+nohup.out
+*.pid
+
+# ---- Test / tooling caches ----
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.cache/
+
+# ---- Build / packaging ----
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---- IDE / editor settings ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*.orig
+
+# ---- Data (adjust as needed) ----
+# Keep small sample data if needed; ignore large/raw datasets
+_data/
+data/raw/
+data/interim/
+data/processed/
+*.sqlite3
+*.db
+
+# ---- Model artifacts / weights ----
+models/
+checkpoints/
+*.pt
+*.bin
+*.h5
+*.onnx
+*.ckpt
+*.safetensors
+
+# ---- Outputs / generated assets ----
+outputs/
+artifacts/
+reports/
+wandb/
+mlruns/
+
+# ---- Caches for ML / LLM tooling ----
+.hf_cache/
+.huggingface/
+transformers_cache/
+accelerate/
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Temporary files ----
+*.tmp
+*.temp
+*.bak
+~$*
+
+# ---- Archive / large exports ----
+*.tar
+*.tar.gz
+*.zip
+*.7z
+
+# ---- Misc ----
+# Add any local-only scratch notebooks here if needed
+# scratch_*.ipynb
