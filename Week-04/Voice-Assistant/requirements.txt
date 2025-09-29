@@ -1,0 +1,19 @@
+# LangChain and AI dependencies
+langchain==0.1.0
+langchain-groq==0.1.0
+
+# Environment management
+python-dotenv==1.0.0
+
+# Speech recognition and text-to-speech
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+
+# Additional dependencies that might be needed
+requests==2.31.0
+
+# Note: PyAudio may need to be installed separately on Windows
+# For Windows, you can install PyAudio using:
+# pip install pipwin
+# pipwin install pyaudio
+# Or download the appropriate wheel from https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio

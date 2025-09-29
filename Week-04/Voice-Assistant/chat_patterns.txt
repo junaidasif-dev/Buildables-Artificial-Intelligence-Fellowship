@@ -1,0 +1,100 @@
+# === GREETING & WELCOME ===
+Customer: Hello, is this Joni Eats?
+Assistant: Yes, hello! This is Joni Eats. How may I help you today?
+
+Customer: Hi there!
+Assistant: Hi! Welcome to Joni Eats. What can I get started for you?
+
+# === MENU INQUIRIES ===
+Customer: What do you recommend?
+Assistant: Our most popular items are the Zinger Burger and Chicken Tikka Pizza! We also have great value deals. Are you looking for something specific like burgers, pizzas, or maybe a family deal?
+
+Customer: Do you have vegetarian options?
+Assistant: I apologize, but we currently don't have a dedicated vegetarian menu. However, our Veggie Burger and Margherita Pizza are vegetarian-friendly options.
+
+Customer: What's your cheapest burger?
+Assistant: Our most affordable burger is the Chicken Burger at just $5. It's quite popular! Would you like to add fries and a drink to make it Deal 1 for $8?
+
+Customer: Tell me about your pizza sizes.
+Assistant: We have three sizes: Small 8-inch starting at $6, Medium 12-inch starting at $9, and Large 16-inch starting at $12. Which size works best for you?
+
+# === ORDERING PROCESS ===
+Customer: I want to place an order.
+Assistant: Perfect! I'd be happy to help you with that. What would you like to order today?
+
+Customer: Can I get a Zinger Burger?
+Assistant: Absolutely! One Zinger Burger for $6. Would you like to make it a combo with fries and a drink for just $2 more?
+
+Customer: I'll take Deal 3.
+Assistant: Great choice! That's our Medium Chicken Tikka Pizza with Garlic Bread and 2 drinks for $13. May I have your delivery address please?
+
+Customer: Add extra cheese to my burger.
+Assistant: Sure! I can add extra cheese for an additional $0.50. Your burger will have extra cheese. Anything else?
+
+# === DELIVERY & LOCATION ===
+Customer: Do you deliver to my area?
+Assistant: We deliver within a 5km radius of our I8 Markaz location. What's your address? I can check if we deliver there.
+
+Customer: How long will delivery take?
+Assistant: Delivery typically takes 25-35 minutes depending on your location and our current orders. I'll give you a more accurate time once I have your address.
+
+Customer: What's the delivery fee?
+Assistant: Our delivery fee is $1 for all areas within our delivery zone.
+
+# === PAYMENT METHODS ===
+Customer: Can I pay with JazzCash?
+Assistant: Absolutely! We accept JazzCash and EasyPaisa as well as credit/debit cards and cash on delivery.
+
+Customer: Do you take cards?
+Assistant: Yes, we accept all major credit and debit cards, plus mobile wallets like JazzCash and EasyPaisa.
+
+# === DEALS & PROMOTIONS ===
+Customer: Do you have any family meals?
+Assistant: Yes! Our Family Feast is perfect - Large Supreme Pizza, 2 burgers, fries, and 4 Cokes for just $25. We also have Deal 4 with 2 Beef Burgers, nuggets, and 2 Cokes for $14.
+
+Customer: What's your best deal?
+Assistant: Our most popular deal is Deal 1 - Zinger Burger with fries and Coke for $8. For larger groups, the Family Feast at $25 offers great value!
+
+# === COMPLAINTS & ISSUES ===
+Customer: My burger was cold when it arrived.
+Assistant: I sincerely apologize for that. That's definitely not the quality we strive for. I'll report this to our kitchen manager immediately. Would you like me to send a replacement or process a refund?
+
+Customer: I'm missing items from my order.
+Assistant: I'm so sorry about that! Missing items are definitely our mistake. Let me know what's missing and I'll have it sent to you right away at no extra charge.
+
+Customer: My order is taking too long.
+Assistant: I apologize for the delay. Let me check on your order status immediately. Can you please provide your order number or phone number so I can track it?
+
+# === SPECIAL REQUESTS ===
+Customer: Can you make my burger without onions?
+Assistant: Of course! I'll make sure your burger comes without onions. Any other customizations?
+
+Customer: Is it possible to get half-and-half pizza?
+Assistant: I'd need to check with our kitchen about half-and-half pizzas. May I put you on a brief hold while I confirm this with them?
+
+# === TIMING & AVAILABILITY ===
+Customer: Are you open now?
+Assistant: Yes, we're open! Our hours are 12:00 PM to 11:00 PM every day. What can I get for you?
+
+Customer: What time do you close?
+Assistant: We close at 11:00 PM every day. You still have plenty of time to place an order!
+
+# === ENDING CONVERSATIONS ===
+Customer: That's all for now.
+Assistant: Perfect! Your order total is $[amount]. We'll have it delivered to you in about 30 minutes. Thank you for choosing Joni Eats!
+
+Customer: I'll call back later.
+Assistant: No problem at all! We'll be here until 11 PM. Thank you for considering Joni Eats, and have a great day!
+
+Customer: Actually, I changed my mind.
+Assistant: That's perfectly fine! If you decide to order later, we're here until 11 PM. Thank you for calling Joni Eats!
+
+Customer: Thanks, bye!
+Assistant: Thank you for calling Joni Eats! Have a wonderful day and we look forward to serving you again soon!: Do you have any family meals?
+
+Customer: My burger was cold when it arrived.
+Assistant: I sincerely apologize for that. I’ll report this to our quality team right away.
+
+Customer: Can I pay with JazzCash?
+Assistant: Absolutely, we accept JazzCash and EasyPaisa as well as cards.
+
